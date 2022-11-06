@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <loc>https://younghungo.github.io/bmc.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/"
+                href="https://younghungo.github.io/bmc.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://younghungo.github.io/bmc.github.io/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>https://younghungo.github.io/bmc.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/categories/"
+                href="https://younghungo.github.io/bmc.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://younghungo.github.io/bmc.github.io/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <loc>https://younghungo.github.io/bmc.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://gohugo-theme-ananke.pages.dev/fr/tags/"
+                href="https://younghungo.github.io/bmc.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://younghungo.github.io/bmc.github.io/tags/"
                 />
   </url>
 </urlset>
