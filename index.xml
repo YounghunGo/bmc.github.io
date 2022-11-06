@@ -1,17 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – My New Hugo Site</title>
-    <link>https://younghungo.github.io/bmc.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Ananke</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content on Ananke</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language>
-    
-	  <atom:link href="https://younghungo.github.io/bmc.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
+    <language>en-us</language><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
