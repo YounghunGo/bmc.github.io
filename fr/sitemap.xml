@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://younghungo.github.io/bmc.github.io/fr/privacy/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://younghungo.github.io/bmc.github.io/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -16,6 +19,10 @@
                 href="https://younghungo.github.io/bmc.github.io/fr/categories/"
                 />
   </url><url>
+    <loc>https://younghungo.github.io/bmc.github.io/fr/posts/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://younghungo.github.io/bmc.github.io/fr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -29,6 +36,10 @@
                 hreflang="fr"
                 href="https://younghungo.github.io/bmc.github.io/fr/tags/"
                 />
+  </url><url>
+    <loc>https://younghungo.github.io/bmc.github.io/fr/posts/test/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://younghungo.github.io/bmc.github.io/fr/</loc>
     <changefreq>monthly</changefreq>
