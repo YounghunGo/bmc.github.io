@@ -6,5 +6,41 @@
     <description>Recent content on 벧엘선교교회</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language><atom:link href="https://younghungo.github.io/bmc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://younghungo.github.io/bmc.github.io/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghungo.github.io/bmc.github.io/info/</guid>
+      <description>info</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://younghungo.github.io/bmc.github.io/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghungo.github.io/bmc.github.io/map/</guid>
+      <description>map</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://younghungo.github.io/bmc.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghungo.github.io/bmc.github.io/people/</guid>
+      <description>people</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://younghungo.github.io/bmc.github.io/youth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://younghungo.github.io/bmc.github.io/youth/</guid>
+      <description>youth</description>
+    </item>
+    
   </channel>
 </rss>
