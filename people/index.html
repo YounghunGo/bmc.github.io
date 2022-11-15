@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="ko-kr">
   <head>
+    <script src="https://kit.fontawesome.com/81a1556a80.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/main.js"> </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>벧엘선교교회</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta name="description" content="people">
     <meta name="generator" content="Hugo 0.105.0">
     
@@ -69,21 +71,15 @@
         <img src="/bmc.github.io/img/bmc_logo.png" class="w100 mw5-ns" alt="벧엘선교교회" />
       
     </a>
-    <div class="el1">
-      <a href="/bmc.github.io/info">교회소개</a>
-    </div> 
-    <div class="el2"> 
-      <a href="/bmc.github.io/people">섬기는 사람들</a> 
-    </div>
-    <div class="el3"> 
-      <a href="/bmc.github.io/youth">청년부</a>
-    </div> 
-    <div class="el4"> 
-      <a href="/bmc.github.io/map">오시는 길</a>
-    </div>
+    <ul class="menu">
+      <li><a href="">교회소개</a></li>
+      <li><a href="">섬기는 사람들</a></li>
+      <li><a href="">청년부</a></li>
+      <li><a href="">오시는 길</a></li>
+    </ul>
+    <i class="fa-solid fa-bars"></i> 
     <div class="flex-l items-center">
       
-
       
       
 <div class="ananke-socials">
@@ -129,5 +125,12 @@
   </div>
 </footer>
 
+    <script>
+      const bars = document.querySelector(".fa-bars");
+      const menu = document.querySelector(".menu");
+      bars.addEventListener("click", () => {
+      menu.classList.toggle("active");
+         });
+    </script>
   </body>
 </html>
